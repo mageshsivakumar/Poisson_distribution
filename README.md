@@ -1,6 +1,6 @@
 # EX 02:Fitting Poisson  distribution
 
-## DATE:01/09/26
+## DATE:28/07/26
 
 ## Aim : 
 
